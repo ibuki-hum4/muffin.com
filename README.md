@@ -1,4 +1,5 @@
 # humano.com
+<!DOCTYEP html>
 <html lang="ja">
 <header>
 	HUMANO
