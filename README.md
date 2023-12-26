@@ -1,1 +1,1 @@
-# humaearth.com
+# huma.com
