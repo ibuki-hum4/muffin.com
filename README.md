@@ -19,6 +19,20 @@
             font-size: 120%;
             font-family: Serif;
         }
+	    h1 {
+display: inline-block;
+  color: #fff;
+  background: #ffaf58;
+  padding: 0.5em;
+  line-height: 1.5;
+  vertical-align: middle;
+  border-radius: 30px 0 0 30px;
+      }
+	    h1::before {
+		    content: '●';
+  color: #fff;
+  margin-right: 8px;
+		    }
     </style>
 </head>
 <body>
